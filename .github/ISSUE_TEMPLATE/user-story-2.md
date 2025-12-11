@@ -9,7 +9,7 @@ assignees: ''
 
 **As a** <type of user>
 **I need** <the function>
-**So that** <the Business Benrfit>
+**So that** <the Business Benefit>
 
 Assumptions
 
