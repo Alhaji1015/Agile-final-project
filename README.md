@@ -6,6 +6,9 @@ This project was created to demonstrate my understanding and practical applicati
 ## What I Did
 Using GitHub Projects, I structured a Scrum board that mirrors how a real development team would operate. I wrote user stories from scratch, organized them across the backlog, and tracked their progression through each stage of the workflow.
 
+## Project Board
+[View the Scrum Board →](https://github.com/users/Alhaji1015/projects/4)
+
 ## Scrum Board Columns
 The board follows a standard Scrum workflow:
 
